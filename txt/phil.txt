@@ -1,0 +1,197 @@
+Parfit examines the fact that our universe appears to be “fine-tuned” for life, why our 
+
+universe is that way, and how that might relate to the existence of local universes causally 
+
+detached from our own. In this paper, I will briefly summarize Parfit’s conclusions, as well as 
+
+explain and critique the idea of a Selector principle, as described towards the end of Parfit’s 
+
+paper.
+
+First, we will look at the main arguments that Parfit makes in his paper. He reasons that 
+
+“fine-tuning” must be surprising, because it seems implausible that the microscopic possibility 
+
+for a universe to contain life would actually obtain. Either it is a massive coincidence or there is 
+
+some other explanation. (Parfit, pg. 419) He discusses many possible explanations for “fine-
+
+tuning” by investigating the possible existence of local universes causally detached from our 
+
+own. He groups together all local universes that exist as one “global possibility”, as opposed to a 
+
+“local possibility”, which is how a particular local universe is. One conclusion that he makes is 
+
+that if a global possibility of many such local universes did exist, then that would be an 
+
+explanation for why our universe is fine-tuned. He believes that this many-worlds hypothesis 
+
+would reduce the arbitrariness of our fine-tuned universe because there are many universes out 
+
+there and at least one of them is bound to have life. (Parfit, pg. 419-420)
+
+Next I am going to go over Parfit’s paper’s major contribution to multiverse theory. Parfit 
+
+wants us to look at the idea of an abstract “Selector” principle that can explain why a certain 
+
+“global possibility” is the way that it is. On that view, if the layout of a global possibility has a 
+
+certain pattern to it and that global possibility obtains, then the fact that reality is that way cannot 
+
+be a mere coincidental brute fact. In fact, on the Selector view, then that pattern is a selector 
+
+principle that explains why that global possibility obtains. (Parfit, pg. 424) Parfit states that the 
+
+reason why the selector explains why a global possibility obtains must necessarily not be an 
+
+“ordinary causal claim”, because causal events, by the very definition of local universes, are 
+
+necessarily bound to a particular local universe and thus cannot operate on a meta-universe level. 
+
+(Parfit, pg. 422) However, it does have some feature of a causal claim. According to Parfit, we 
+
+can rewrite any causal claim “A causes B” as “If A, then B”. We can also rewrite the Selector 
+
+principle as “If the global possibility that obtains would adhere better to the Selector principle if 
+
+it had C feature, then the global possibility that obtains would have that feature”. He writes that 
+
+the reader may still find this explanation mysterious but then again, causality even in everyday 
+
+scenarios seems to be a fairly peculiar concept in general. (Parfit, pg. 423) Parfit also does not 
+
+want us to imagine the Selector being some kind of “hidden machinery” existing outside of all 
+
+local universes, because he finds it banal how a global possibility is selected. We know that a 
+
+particular global possibility must obtain. Without resorting to inventing some kind of 
+
+metaphysical extra-universal machinery that can select such a global possibility, we know that 
+
+logically a global possibility exists; the question then is therefore why that particular global 
+
+possibility obtains, not how that particular possibility obtains. (Parfit, pg. 425)
+
+Examples of patterned global possibilities with corresponding Selector principles that 
+
+Parfit lists in the paper include the Axiarchic view that our global possibility obtains because it is 
+
+the best configuration out of all global possibilities. There is also the opposite of the Axiarchic 
+
+view, which is that our global possibility obtains because it is the worst configuration out of all 
+
+global possibilities. Parfit also suggests the Maximal view that our global possibility obtains 
+
+because it contains every possible local possibility and therefore is maximally diverse. The 
+
+reverse of the Maximal view is the Null possibility that our global possibility obtains because it 
+
+contains no local possibilities. Some physicists also suggest Mathematical beauty as a Selector. 
+
+On that view, our global possibility obtains, because it is the most mathematically beautiful way 
+
+for the laws of the universe to have been. These examples are plausible selectors, as opposed to 
+
+more arbitrarily patterned universes like a global possibility containing 57 local universes, 
+
+because if those more plausible patterns obtained, it would be reasonable to assume that those 
+
+patterns existed for a reason and were not simply coincidence. On the contrary, the number 57 
+
+may have some interesting mathematical properties, but there is nothing about the number 57 
+
+that implies that it is the reason why that global possibility obtains. (Parfit, pg. 424) 
+
+What if there is no Selector? Then that would mean that the global possibility that obtains 
+
+is arbitrary and random. Thus, the global possibility that obtains would have no explanation. We 
+
+would therefore have a global possibility containing some arbitrary number of local universes, 
+
+each with some arbitrary details. One of them just happens to be our life-bearing universe. There 
+
+would be no answer to the question of why our universe is fined-tuned for life. Parfit calls this 
+
+view the “Brute Fact View”. Parfit thinks that this view is not tenable, as per the logic of the 
+
+Selector principle. However, he thinks that it may be necessary to take a “Brute Fact View” with 
+
+regards to the question of “Why this particular Selector and not any other?”, in that we have to 
+
+take it as a brute fact that our Selector is our Selector. That would mean it was completely 
+
+arbitrary that we happened to have this Selector as opposed to another possible Selector. This is 
+
+because, for any Selector, such a principle cannot explain itself, because that would be 
+
+tautological. Plus, it is not clear whether any Selector is metaphysically necessary, as it is 
+
+logically consistent for any Selector principle to not be the actual Selector for our global 
+
+possibility. If the “Brute Fact View” with regards to Selector principles is true, it also serves to 
+
+disqualify the “Brute Fact View” with regards to global possibilities, because it is not clear why 
+
+“no Selector” would be randomly chosen out of a set including all reasonable Selectors plus the 
+
+“no Selector” option, independently of an independent reason to believe that our global 
+
+possibility is arbitrary. (Parfit, pg. 425-426)
+
+I object to the idea of a Selector principle that Parfit posits. A Selector principle is bound 
+
+to a global possibility and explains the particular pattern of that global possibility. However, in 
+
+the same way that we can group local possibilities into a global possibility, we can also group 
+
+global possibilities into meta-global possibilities. In this view, each meta-global possibility has a 
+
+meta-Selector that chooses the particular pattern of Selector principles distributed among the 
+
+global possibilities encapsulated within the meta-global possibility. Thus, if it is possible to 
+
+reason about the metaphysical existence of Selectors and other local possibilities outside of our 
+
+own local universe the way that Parfit does in his paper, it is also possible to reason about meta-
+
+Selectors and meta-global possibilities in the way that I have done. We can apply the same logic 
+
+to create meta-meta-Selectors and meta-meta-global possibilities and so on. It then becomes 
+
+unclear at which level to stop positing new metaphysical entities and then take that metaphysical 
+
+conception of reality as brute fact. Parfit dismisses meta-Selectors out of hand as being 
+
+unexplainable and takes the existence of a Selector as a brute fact. However, we could also have 
+
+stopped at the fifth level of regress, the zeroth level of regress (which is taking the existence of 
+
+our local world as a brute fact), or just accepted infinite regress. There is no reason from inside 
+
+the explanation of what a Selector is, that we should prefer stopping at one level over another. 
+
+However, there is an independent reason why we should stop at the zeroth level of regress and 
+
+say that there is no such thing as a Selector. If the idea of a Selector leads to inexplicable 
+
+arbitrariness in an effort to stop infinite regression, or an absurd commitment to infinite levels of 
+
+meta-universes, then there does not seem to be a good reason why we should prefer that 
+
+metaphysical view over a simpler default metaphysical view that takes our local universe as a 
+
+brute fact.
+
+Parfit shows how we can reason about metaphysical entities that do not exist in our local 
+
+universe. He claims that multiple local universes would explain our universe’s fine-tuning and 
+
+further that a Selector principle can explain the layout of a global possibility. However, I think 
+
+that Selectors are untenable because they lead to more metaphysical headaches than they solve, 
+
+due to the fact that we can apply the Selector principle to Selectors over and over again, leading 
+
+to either a new kind of metaphysical arbitrariness in an effort to stop infinite regression or the 
+
+ludicrous commitment to infinite layers of meta-universes.
